@@ -2,7 +2,6 @@
 
 <div align="center">
     <b><em>Easy Rules</em></b><br>
-    
     The simple, stupid rules engine for Java&trade;
 </div>
 
